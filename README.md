@@ -10,4 +10,6 @@ Data Cleaning: Standardization, handling missing values, and outliers.
 
 Correcting date datatype: Selecting correct datatype for date.
 
+Balancing the imbalance data: The given data was heavily imbalance hence i balanced the data before proceeding to the next step.
+
 Model Training and Validation: Implementing various machine learning models and evaluating their performance using choosen matrices.
